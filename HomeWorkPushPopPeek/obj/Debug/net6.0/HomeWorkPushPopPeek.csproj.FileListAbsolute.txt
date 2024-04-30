@@ -1,0 +1,14 @@
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkPushPopPeek\HomeWorkPushPopPeek\obj\Debug\net6.0\HomeWorkPushPopPeek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkPushPopPeek\HomeWorkPushPopPeek\obj\Debug\net6.0\HomeWorkPushPopPeek.AssemblyInfoInputs.cache
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkPushPopPeek\HomeWorkPushPopPeek\obj\Debug\net6.0\HomeWorkPushPopPeek.AssemblyInfo.cs
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkPushPopPeek\HomeWorkPushPopPeek\obj\Debug\net6.0\HomeWorkPushPopPeek.csproj.CoreCompileInputs.cache
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkPushPopPeek\HomeWorkPushPopPeek\bin\Debug\net6.0\HomeWorkPushPopPeek.exe
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkPushPopPeek\HomeWorkPushPopPeek\bin\Debug\net6.0\HomeWorkPushPopPeek.deps.json
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkPushPopPeek\HomeWorkPushPopPeek\bin\Debug\net6.0\HomeWorkPushPopPeek.runtimeconfig.json
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkPushPopPeek\HomeWorkPushPopPeek\bin\Debug\net6.0\HomeWorkPushPopPeek.dll
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkPushPopPeek\HomeWorkPushPopPeek\bin\Debug\net6.0\HomeWorkPushPopPeek.pdb
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkPushPopPeek\HomeWorkPushPopPeek\obj\Debug\net6.0\HomeWorkPushPopPeek.dll
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkPushPopPeek\HomeWorkPushPopPeek\obj\Debug\net6.0\refint\HomeWorkPushPopPeek.dll
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkPushPopPeek\HomeWorkPushPopPeek\obj\Debug\net6.0\HomeWorkPushPopPeek.pdb
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkPushPopPeek\HomeWorkPushPopPeek\obj\Debug\net6.0\HomeWorkPushPopPeek.genruntimeconfig.cache
+C:\Users\SENAN\source\repos\ClassWorkClass\HomeWorkPushPopPeek\HomeWorkPushPopPeek\obj\Debug\net6.0\ref\HomeWorkPushPopPeek.dll
